@@ -60,21 +60,18 @@ jobs:
           plugin_isocalendar_duration: half-year
           config_timezone: Asia/Kolkata
 
-  metrics-activity:
-    name: Recent Activity
+  metrics-lines:
+    name: Lines of Code
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Generate activity metrics
+      - name: Generate lines metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.activity.svg
+          filename: metrics.lines.svg
           user: Tejeswaar
           base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+          plugin_lines: yes
           config_timezone: Asia/Kolkata

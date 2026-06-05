@@ -87,9 +87,9 @@ public:
 
 <div align="center">
 
-| Recent Activity | Language Breakdown |
+| Lines of Code | Language Breakdown |
 |:---:|:---:|
-| <img src="metrics.activity.svg" alt="Activity" /> | <img src="metrics.languages.svg" alt="Languages" /> |
+| <img src="metrics.lines.svg" alt="Lines of Code" /> | <img src="metrics.languages.svg" alt="Languages" /> |
 
 | Isometric Contribution Calendar |
 |:---:|

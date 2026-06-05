@@ -1,0 +1,11 @@
+Add-Type -AssemblyName System.Drawing
+$img = [System.Drawing.Image]::FromFile('d:\me\me\banner.png')
+$bmp = New-Object System.Drawing.Bitmap(1024, 350)
+$g = [System.Drawing.Graphics]::FromImage($bmp)
+$rect = New-Object System.Drawing.Rectangle(0, 0, 1024, 350)
+$srcRect = New-Object System.Drawing.Rectangle(0, 337, 1024, 350)
+$g.DrawImage($img, $rect, $srcRect, [System.Drawing.GraphicsUnit]::Pixel)
+$img.Dispose()
+$g.Dispose()
+$bmp.Save('d:\me\me\banner_cropped.png', [System.Drawing.Imaging.ImageFormat]::Png)
+$bmp.Dispose()

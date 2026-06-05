@@ -20,6 +20,9 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          retries: 3
+          retries_delay: 300
+          optimize: yes
           filename: metrics.header.svg
           user: Tejeswaar
           base: header, repositories
@@ -35,6 +38,9 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          retries: 3
+          retries_delay: 300
+          optimize: yes
           filename: metrics.languages.svg
           user: Tejeswaar
           base: ""
@@ -53,6 +59,9 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          retries: 3
+          retries_delay: 300
+          optimize: yes
           filename: metrics.isocalendar.svg
           user: Tejeswaar
           base: ""

@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tejeswaar.me-FF6B35?style=for-the-badge&logoColor=white)](https://tejeswaar.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tejeswaar.me-FF6B35?style=for-the-badge&logoColor=white)](https://tejeswaar.me)
 [![GitHub](https://img.shields.io/badge/GitHub-Tejeswaar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejeswaar)
 [![ArtStation](https://img.shields.io/badge/ArtStation-Profile-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejeswaarreddy@gmail.com)
@@ -21,15 +21,15 @@
 
 ---
 
-## 👾 About Me
+## About Me
 
 ```cpp
 class TejeswaarReddy : public GameDeveloper {
 public:
-    std::string location    = "Hyderabad, India 🇮🇳";
+    std::string location    = "Hyderabad, India";
     std::string role        = "Game Systems Programmer & Technical Artist";
     std::string focus[]     = {"Unreal Engine 5 (GAS)", "Custom Engine Dev", "ECS Architecture"};
-    std::string shipped     = "MixMash — 10,000+ downloads on Google Play 🎮";
+    std::string shipped     = "MixMash — 10,000+ downloads on Google Play";
 
     void current() {
         build("Retina Engine");      // Custom 2D engine in C++ / SDL2
@@ -40,15 +40,15 @@ public:
 };
 ```
 
-> 🔥 **Specializing** in gameplay systems, engine architecture, low-level graphics programming and real-time rendering. Experienced in Unreal Engine 5 (GAS & Blueprints), Unity, SDL2 & Cocos Creator.
+> **Specializing** in gameplay systems, engine architecture, low-level graphics programming and real-time rendering. Experienced in Unreal Engine 5 (GAS & Blueprints), Unity, SDL2 & Cocos Creator.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -56,19 +56,19 @@ public:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL%2FHLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
-### 🎮 Game Engines & Frameworks
+### Game Engines & Frameworks
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![SDL2](https://img.shields.io/badge/SDL2-1E4D78?style=for-the-badge&logo=sdl&logoColor=white)
 ![Cocos Creator](https://img.shields.io/badge/Cocos_Creator-55C2E1?style=for-the-badge&logo=cocos&logoColor=white)
 
-### 🎨 Creative Tools
+### Creative Tools
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Substance Painter](https://img.shields.io/badge/Substance_Painter-FF3D00?style=for-the-badge&logo=adobe&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-### 🌐 Web & Tools
+### Web & Tools
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -76,7 +76,7 @@ public:
 
 </div>
 
-## 📊 GitHub Stats & Metrics
+## GitHub Stats & Metrics
 
 <!-- These SVGs are auto-generated daily by GitHub Actions using lowlighter/metrics -->
 <!-- They will appear after the workflow runs -->
@@ -99,14 +99,14 @@ public:
 
 ---
 
-## 🏰 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🏰 Land of Souls</h3>
+      <h3 align="center">Land of Souls</h3>
       <div align="center">
         <a href="https://github.com/Tejeswaar/Land-of-Souls">
           <img src="https://img.shields.io/badge/UE5-Dark_Fantasy_RPG-0E1128?style=for-the-badge&logo=unrealengine" />
@@ -121,7 +121,7 @@ public:
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🔧 Retina Engine</h3>
+      <h3 align="center">Retina Engine</h3>
       <div align="center">
         <a href="https://github.com/Tejeswaar/RetinaEngine">
           <img src="https://img.shields.io/badge/C%2B%2B-Custom_2D_Engine-00599C?style=for-the-badge&logo=c%2B%2B" />
@@ -138,7 +138,7 @@ public:
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🧩 Mix Mash</h3>
+      <h3 align="center">Mix Mash</h3>
       <div align="center">
         <a href="https://play.google.com/store/apps/details?id=com.setkeygames.mixmash">
           <img src="https://img.shields.io/badge/Google_Play-10K%2B_Downloads-3DDC84?style=for-the-badge&logo=googleplay" />
@@ -148,12 +148,12 @@ public:
           <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
           <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
           <img src="https://img.shields.io/badge/Mobile-Google_Play-3DDC84?style=flat"/>
-          <img src="https://img.shields.io/badge/Status-Shipped_🚀-green?style=flat"/>
+          <img src="https://img.shields.io/badge/Status-Shipped-green?style=flat"/>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📋 QuestBoard</h3>
+      <h3 align="center">QuestBoard</h3>
       <div align="center">
         <a href="https://studio--questboard-89q6g.us-central1.hosted.app/">
           <img src="https://img.shields.io/badge/Live-AI_Game_Dev_Tool-FF6B35?style=for-the-badge&logo=firebase" />
@@ -163,7 +163,7 @@ public:
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
           <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white"/>
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Status-Live_✅-brightgreen?style=flat"/>
+          <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat"/>
         </p>
       </div>
     </td>
@@ -174,16 +174,16 @@ public:
 
 ---
 
-## 🎓 Background
+## Background
 
 <div align="center">
 
-| 🏢 Experience | 📅 Period | 🎯 Role |
+| Experience | Period | Role |
 |:---|:---:|:---|
 | **IACG Multimedia** | 2026–Present | Jr. Game Developer |
 | **Tharros Game Studio** | 2025–2026 | Game Systems Programmer (Volunteer) |
 
-| 🎓 Education | 📅 Period |
+| Education | Period |
 |:---|:---:|
 | **IACG Multimedia College – TS** | 2022–2026 |
 | BA (Hons) Multimedia – Gaming | |
@@ -192,7 +192,7 @@ public:
 
 ---
 
-## 🌟 Expertise
+## Expertise
 
 <div align="center">
 
@@ -209,14 +209,14 @@ Optimization ──────────────────────�
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
 I'm always open to interesting projects, game dev collaborations, or just a great conversation about systems programming!
 
-[![Portfolio](https://img.shields.io/badge/🌐_tejeswaar.me-Visit_Portfolio-FF6B35?style=for-the-badge)](https://tejeswaar.me)
-[![Email](https://img.shields.io/badge/📧_Email-tejeswaarreddy@gmail.com-EA4335?style=for-the-badge)](mailto:tejeswaarreddy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/tejeswaar.me-Visit_Portfolio-FF6B35?style=for-the-badge)](https://tejeswaar.me)
+[![Email](https://img.shields.io/badge/Email-tejeswaarreddy@gmail.com-EA4335?style=for-the-badge)](mailto:tejeswaarreddy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejeswaar)
 
 </div>
@@ -227,6 +227,6 @@ I'm always open to interesting projects, game dev collaborations, or just a grea
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tejeswaar&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"The best game engine is the one you build yourself."* 🎮
+*"The best game engine is the one you build yourself."*
 
 </div>

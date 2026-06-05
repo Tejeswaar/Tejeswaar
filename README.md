@@ -76,35 +76,24 @@ public:
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejeswaar&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejeswaar&layout=compact&theme=radical&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&border_color=30363d&langs_count=8&hide_border=false" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejeswaar&theme=radical&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&border=30363d&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=FF6B35" height="180" alt="GitHub Streak" />
-</div>
-
----
-
-## 📈 Auto-Generated Metrics
+## 📊 GitHub Stats & Metrics
 
 <!-- These SVGs are auto-generated daily by GitHub Actions using lowlighter/metrics -->
-<!-- They will appear after the first workflow run -->
+<!-- They will appear after the workflow runs -->
+
+<div align="center">
+  <img src="metrics.header.svg" alt="Profile Header" />
+</div>
 
 <div align="center">
 
 | Coding Activity | Language Breakdown |
 |:---:|:---:|
-| ![Habits](metrics.habits.svg) | ![Languages](metrics.languages.svg) |
+| <img src="metrics.habits.svg" alt="Habits" /> | <img src="metrics.languages.svg" alt="Languages" /> |
 
 | Isometric Contribution Calendar | Achievements |
 |:---:|:---:|
-| ![Isometric Calendar](metrics.isocalendar.svg) | ![Achievements](metrics.achievements.svg) |
+| <img src="metrics.isocalendar.svg" alt="Isometric Calendar" /> | <img src="metrics.achievements.svg" alt="Achievements" /> |
 
 </div>
 

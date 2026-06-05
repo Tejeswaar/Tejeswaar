@@ -85,16 +85,16 @@ public:
   <img src="metrics.header.svg" alt="Profile Header" />
 </div>
 
+<br/>
+
 <div align="center">
+  <img src="metrics.languages.svg" alt="Language Breakdown" />
+</div>
 
-| Lines of Code | Language Breakdown |
-|:---:|:---:|
-| <img src="metrics.lines.svg" alt="Lines of Code" /> | <img src="metrics.languages.svg" alt="Languages" /> |
+<br/>
 
-| Isometric Contribution Calendar |
-|:---:|
-| <img src="metrics.isocalendar.svg" alt="Isometric Calendar" /> |
-
+<div align="center">
+  <img src="metrics.isocalendar.svg" alt="Isometric Contribution Calendar" />
 </div>
 
 ---

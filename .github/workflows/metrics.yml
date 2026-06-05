@@ -26,6 +26,7 @@ jobs:
           filename: metrics.header.svg
           user: Tejeswaar
           base: header, repositories
+          plugin_lines: yes
           config_timezone: Asia/Kolkata
 
   metrics-languages:
@@ -69,18 +70,4 @@ jobs:
           plugin_isocalendar_duration: half-year
           config_timezone: Asia/Kolkata
 
-  metrics-lines:
-    name: Lines of Code
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Generate lines metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.lines.svg
-          user: Tejeswaar
-          base: ""
-          plugin_lines: yes
-          config_timezone: Asia/Kolkata
+

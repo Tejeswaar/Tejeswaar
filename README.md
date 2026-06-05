@@ -183,10 +183,9 @@ public:
 | **IACG Multimedia** | 2026–Present | Jr. Game Developer |
 | **Tharros Game Studio** | 2025–2026 | Game Systems Programmer (Volunteer) |
 
-| Education | Period |
-|:---|:---:|
-| **IACG Multimedia College – TS** | 2022–2026 |
-| BA (Hons) Multimedia – Gaming | |
+| Edu | Course | Years |
+|:---|:---|:---:|
+| IACG Multimedia College - TS | BA (Hons) Multimedia - Gaming | 2022–2026 |
 
 </div>
 
@@ -196,13 +195,15 @@ public:
 
 <div align="center">
 
-```
-Game Engines ─────────────────────── Unreal Engine 5 (GAS & Blueprints), Unity
-Graphics & Engine ────────────────── SDL2, GLM, ECS, Low-Level Rendering  
-Gameplay Systems ─────────────────── Combat, Economy, Input, State Machines
-UI & Audio ───────────────────────── HUD, Menus, SFX, Event-Driven Audio
-3D Production ────────────────────── Blender, Maya, Substance Painter
-Optimization ─────────────────────── Performance Profiling, Asset Optimization
+```cpp
+struct Expertise {
+    std::vector<std::string> gameEngines      = {"Unreal Engine 5 (GAS & Blueprints)", "Unity"};
+    std::vector<std::string> engineGraphics   = {"SDL2", "GLM", "ECS", "Low-Level Rendering"};
+    std::vector<std::string> gameplaySystems  = {"Combat", "Economy", "Input", "State Machines"};
+    std::vector<std::string> uiAndAudio       = {"HUD", "Menus", "SFX", "Event-Driven Audio"};
+    std::vector<std::string> graphics3D       = {"Blender", "Maya", "Substance Painter"};
+    std::vector<std::string> optimization     = {"Performance Profiling", "Asset Optimization"};
+};
 ```
 
 </div>
@@ -217,7 +218,7 @@ I'm always open to interesting projects, game dev collaborations, or just a grea
 
 [![Portfolio](https://img.shields.io/badge/tejeswaar.me-Visit_Portfolio-FF6B35?style=for-the-badge)](https://tejeswaar.me)
 [![Email](https://img.shields.io/badge/Email-tejeswaarreddy@gmail.com-EA4335?style=for-the-badge)](mailto:tejeswaarreddy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejeswaar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejeswaar-reddy/)
 
 </div>
 

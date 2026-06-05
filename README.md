@@ -87,13 +87,13 @@ public:
 
 <div align="center">
 
-| Coding Activity | Language Breakdown |
+| Recent Activity | Language Breakdown |
 |:---:|:---:|
-| <img src="metrics.habits.svg" alt="Habits" /> | <img src="metrics.languages.svg" alt="Languages" /> |
+| <img src="metrics.activity.svg" alt="Activity" /> | <img src="metrics.languages.svg" alt="Languages" /> |
 
-| Isometric Contribution Calendar | Achievements |
-|:---:|:---:|
-| <img src="metrics.isocalendar.svg" alt="Isometric Calendar" /> | <img src="metrics.achievements.svg" alt="Achievements" /> |
+| Isometric Contribution Calendar |
+|:---:|
+| <img src="metrics.isocalendar.svg" alt="Isometric Calendar" /> |
 
 </div>
 

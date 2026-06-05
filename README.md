@@ -183,9 +183,21 @@ public:
 | **IACG Multimedia** | 2026–Present | Jr. Game Developer |
 | **Tharros Game Studio** | 2025–2026 | Game Systems Programmer (Volunteer) |
 
-| Edu | Course | Years |
-|:---|:---|:---:|
-| IACG Multimedia College - TS | BA (Hons) Multimedia - Gaming | 2022–2026 |
+<table align="center">
+  <tr>
+    <th colspan="3" align="center">EDUCATION</th>
+  </tr>
+  <tr>
+    <th align="center">Institution</th>
+    <th align="center">Course</th>
+    <th align="center">Years</th>
+  </tr>
+  <tr>
+    <td align="center">IACG Multimedia College - TS</td>
+    <td align="center">BA (Hons) Multimedia - Gaming</td>
+    <td align="center">2022–2026</td>
+  </tr>
+</table>
 
 </div>
 
@@ -195,16 +207,32 @@ public:
 
 <div align="center">
 
-```cpp
-struct Expertise {
-    std::vector<std::string> gameEngines      = {"Unreal Engine 5 (GAS & Blueprints)", "Unity"};
-    std::vector<std::string> engineGraphics   = {"SDL2", "GLM", "ECS", "Low-Level Rendering"};
-    std::vector<std::string> gameplaySystems  = {"Combat", "Economy", "Input", "State Machines"};
-    std::vector<std::string> uiAndAudio       = {"HUD", "Menus", "SFX", "Event-Driven Audio"};
-    std::vector<std::string> graphics3D       = {"Blender", "Maya", "Substance Painter"};
-    std::vector<std::string> optimization     = {"Performance Profiling", "Asset Optimization"};
-};
-```
+<table align="center">
+  <tr>
+    <th align="right">Game Engines</th>
+    <td align="left">Unreal Engine 5 (GAS & Blueprints) • Unity</td>
+  </tr>
+  <tr>
+    <th align="right">Graphics & Engine</th>
+    <td align="left">SDL2 • GLM • ECS • Low-Level Rendering</td>
+  </tr>
+  <tr>
+    <th align="right">Gameplay Systems</th>
+    <td align="left">Combat • Economy • Input • State Machines</td>
+  </tr>
+  <tr>
+    <th align="right">UI & Audio</th>
+    <td align="left">HUD • Menus • SFX • Event-Driven Audio</td>
+  </tr>
+  <tr>
+    <th align="right">3D Production</th>
+    <td align="left">Blender • Maya • Substance Painter</td>
+  </tr>
+  <tr>
+    <th align="right">Optimization</th>
+    <td align="left">Performance Profiling • Asset Optimization</td>
+  </tr>
+</table>
 
 </div>
 

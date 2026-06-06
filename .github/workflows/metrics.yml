@@ -30,6 +30,7 @@ jobs:
           config_timezone: Asia/Kolkata
 
   metrics-languages:
+    needs: metrics-header
     name: Languages
     runs-on: ubuntu-latest
     permissions:
@@ -51,6 +52,7 @@ jobs:
           config_timezone: Asia/Kolkata
 
   metrics-isocalendar-full:
+    needs: metrics-languages
     name: Isometric Calendar Full
     runs-on: ubuntu-latest
     permissions:
@@ -71,6 +73,7 @@ jobs:
           config_timezone: Asia/Kolkata
 
   metrics-isocalendar-half:
+    needs: metrics-isocalendar-full
     name: Isometric Calendar Half
     runs-on: ubuntu-latest
     permissions:

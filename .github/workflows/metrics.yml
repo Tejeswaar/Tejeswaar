@@ -67,7 +67,7 @@ jobs:
           user: Tejeswaar
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
           config_timezone: Asia/Kolkata
 
 

@@ -94,7 +94,16 @@ public:
 <br/>
 
 <div align="center">
-  <img src="metrics.isocalendar.svg" alt="Isometric Contribution Calendar" />
+  <details open>
+    <summary><b>View Full-Year Calendar</b></summary>
+    <br/>
+    <img src="metrics.isocalendar.full.svg" alt="Full Year Isometric Calendar" />
+  </details>
+  <details>
+    <summary><b>View Half-Year Calendar</b></summary>
+    <br/>
+    <img src="metrics.isocalendar.half.svg" alt="Half Year Isometric Calendar" />
+  </details>
 </div>
 
 ---

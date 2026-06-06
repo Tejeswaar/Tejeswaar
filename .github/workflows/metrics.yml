@@ -50,24 +50,44 @@ jobs:
           plugin_languages_limit: 8
           config_timezone: Asia/Kolkata
 
-  metrics-isocalendar:
-    name: Isometric Calendar
+  metrics-isocalendar-full:
+    name: Isometric Calendar Full
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Generate isometric calendar
+      - name: Generate full isometric calendar
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           retries: 3
           retries_delay: 300
           optimize: yes
-          filename: metrics.isocalendar.svg
+          filename: metrics.isocalendar.full.svg
           user: Tejeswaar
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
+
+  metrics-isocalendar-half:
+    name: Isometric Calendar Half
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate half isometric calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          retries: 3
+          retries_delay: 300
+          optimize: yes
+          filename: metrics.isocalendar.half.svg
+          user: Tejeswaar
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           config_timezone: Asia/Kolkata
 
 

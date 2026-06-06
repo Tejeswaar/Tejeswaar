@@ -94,12 +94,12 @@ public:
 <br/>
 
 <div align="center">
-  <details open>
+  <details>
     <summary><b>View Full-Year Calendar</b></summary>
     <br/>
     <img src="metrics.isocalendar.full.svg" alt="Full Year Isometric Calendar" />
   </details>
-  <details>
+  <details open>
     <summary><b>View Half-Year Calendar</b></summary>
     <br/>
     <img src="metrics.isocalendar.half.svg" alt="Half Year Isometric Calendar" />

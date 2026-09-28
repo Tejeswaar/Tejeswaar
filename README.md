@@ -265,6 +265,5 @@ I'm always open to interesting projects, game dev collaborations, or just a grea
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tejeswaar&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"The best game engine is the one you build yourself."*
 
 </div>
